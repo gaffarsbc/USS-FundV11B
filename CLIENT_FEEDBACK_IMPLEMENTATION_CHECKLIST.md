@@ -1,0 +1,33 @@
+# Client Feedback Implementation Checklist
+
+- [x] Replaced the website logo with the new client-supplied transparent SVG.
+- [x] Replaced Lee Wallace's profile image with the supplied portrait and presented him as Mr. Lee C. Wallace, Founder.
+- [x] Replaced the previous Zeffy destination with `donate-to-change-lives-21399` everywhere.
+- [x] Made `$4,000,000 CAMPUS CAMPAIGN` unmistakable and removed any `$0.0M` presentation.
+- [x] Added goal, purpose and launch-status language for the campus campaign.
+- [x] Added and strengthened “From One Home to a Community Vision,” including the 2018 history and scalable-campus direction.
+- [x] Added the exact approved Mission and Vision statements to the About page.
+- [x] Added Accountability, Excellence, Integrity and Community Empowerment with the approved descriptions.
+- [x] Added “The USS Three: Safe. Supported. Stable.” with the approved definitions.
+- [x] Strengthened Pathways to Home with definitive continuum language.
+- [x] Expanded all six “Who We Serve” audiences with donor-readable descriptions.
+- [x] Added “Integrated. Community-centered. Built for scale.” and the eight-part organizational framework.
+- [x] Organized the fundraising architecture around the approved two paths: Fund USS Today and Build USS Tomorrow.
+- [x] Preserved the institutional, compassionate and forward-looking tone requested by the client.
+- [x] Uses the full name United Social Services Inc. (USS) throughout organizational and legal copy.
+- [x] Added the current Facebook, Instagram, LinkedIn, address, phone and Amazon destinations.
+- [x] Added the exact founder LinkedIn destination beside his email.
+- [x] Added the USS Donor-Advised Fund and Endowment & Legacy Fund forms and a dedicated DAF/Endowment page.
+- [x] Removed the obsolete retailer registry destination throughout the package.
+- [x] Corrected current-versus-future donation routing and housing-development language.
+- [x] Increased sitewide typography for donor readability and added EIN 82-5444257 to the shared footer.
+- [x] Routes website inquiries to `lwallace@usstx.org` through visitor-controlled email links/forms.
+- [x] Uses an African American family visual in the home hero.
+- [x] Replaced repeated content imagery with a duplicate-free assignment: every displayed mission photograph has one site-wide visual slot.
+- [x] Added lightweight, reduced-motion-aware image carousels, campaign animation, scroll reveal and smoother button interactions.
+- [x] Added responsive mobile navigation and layouts.
+- [x] Replaced every visible header, mobile and footer logo with the exact client-supplied USS monogram.
+- [x] Restored the donor-first homepage hero, Current Funding Priorities and the 10,000 × $100 campaign.
+- [x] Removed the third donor category and routed current operational capacity to Fund USS Today.
+- [x] Restored Facebook and Instagram to the Contact page using shared social controls.
+- [x] Added unique DAF strategic-impact and Major Gifts priority descriptions.
